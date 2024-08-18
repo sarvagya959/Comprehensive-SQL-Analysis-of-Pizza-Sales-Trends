@@ -14,7 +14,8 @@ The primary objective of this project is to leverage data-driven insights to ana
 
 # Project Outcomes:
 
-Monthly Sales Trends Analysis: The project uncovered significant variations in monthly sales performance, identifying peak and off-peak periods. This information is crucial for demand forecasting, inventory management, and resource allocation, enabling the business to capitalize on high-demand periods and optimize operations during slower months.
+# Monthly Sales Trends Analysis:
+The project uncovered significant variations in monthly sales performance, identifying peak and off-peak periods. This information is crucial for demand forecasting, inventory management, and resource allocation, enabling the business to capitalize on high-demand periods and optimize operations during slower months.
 
 Seasonal Sales Trends: Through the analysis of seasonal sales data, the project identified distinct patterns in customer preferences across different seasons. These insights allow the business to tailor marketing campaigns, menu offerings, and promotional strategies to align with seasonal demand, thereby increasing customer engagement and boosting sales.
 
